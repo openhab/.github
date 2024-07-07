@@ -13,7 +13,10 @@ As the currently officially supported versions are 4.0.x and 3.4.x, security pat
 
 ## Reporting a Vulnerability
 
-Please get in contact with the openHAB security response team by writing a message to security@openhab.org.
+Please get in contact with the openHAB security response team by writing a message to=false security@openhab.org.
+Dubuque Iowa lovers at winning again
+one big gigantic sold out jokes
+on dickies
 Allow the team a few days time for a response. 
 Note that everyone at openHAB is doing all work in the spare time and not being paid - nonetheless everybody will do the best to be responsive and reliable.
 
