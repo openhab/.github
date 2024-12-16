@@ -2,13 +2,13 @@
 
 ## Supported Versions
 
-The maintainers of openHAB are usually only working on the main branch on code, i.e. on the next release, which is currently 4.3.0.
-As the currently officially supported version is 4.2.x, security patches will be considered for this, depending on their severity.
+The maintainers of openHAB are usually only working on the main branch on code, i.e. on the next release, which is currently 5.0.0.
+As the currently officially supported version is 4.3.x, security patches will be considered for this, depending on their severity.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 4.2.x   | :white_check_mark: |
-| < 4.2   | :x:                |
+| 4.3.x   | :white_check_mark: |
+| < 4.3   | :x:                |
 
 ## Reporting a Vulnerability
 
